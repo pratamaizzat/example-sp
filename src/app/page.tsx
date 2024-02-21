@@ -1,6 +1,6 @@
 import CustomeDateInput from "@/components/CustomDateInput";
 
-export const maxDuration = 300
+export const maxDuration = 10
 export default function Home() {
 
   async function getSalesOrder(formData: FormData) {
